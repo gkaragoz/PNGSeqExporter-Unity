@@ -268,7 +268,7 @@ MonoBehaviour:
     m_root: 1
     m_leaf: Capture/test
     m_readOnly: 0
-  m_resolution: 0
+  m_resolution: 1
   m_resolutionPercent: 4
   m_resolutionWidth: 1920
   m_framerateMode: 1
