@@ -1,7 +1,7 @@
 # PNGSeqExporter-Unity
 Easily FBX to PNG or Gif converter.
 
-# This is only works on animation type is LEGACY!
+# This only works on animation type is LEGACY!
 
 Current version: v1.0.0 - with sample animated model.
 
